@@ -4,7 +4,10 @@
 ## Build env 
 
 ``` batch
-docker-compose up -d 
+docker-compose build
+```
+``` batch
+docker-compose up
 ```
 
 Be sure that you are in 
