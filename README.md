@@ -7,7 +7,7 @@
 docker-compose build
 ```
 ``` batch
-docker-compose up
+docker-compose
 ```
 
 Be sure that you are in 
